@@ -12,6 +12,13 @@
   font-style: normal;
 }
 
+body {
+    font-family: "Raleway", sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
 .raleway-letters {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
