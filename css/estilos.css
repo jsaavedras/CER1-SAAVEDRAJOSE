@@ -1,0 +1,110 @@
+#inicio {
+  background-image: url('../images/Starry_Night_Over_the_Rhone.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.montserrat-letters {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.raleway-letters {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.main-color{
+    color:#1A365D;
+}
+
+.text-gold{
+    color:#D4AF37;
+}
+
+.background-gold{
+    background-color: #D4AF37;
+}
+
+.accent-color{
+    color:#E25822;
+}
+
+.main-background{
+    color:#F7F5F0;
+}
+
+.secondary-background{
+    color:#88A0A8;
+}
+
+.secondary-text{
+    color:#4A5568;
+}
+
+.header-custom {
+    background-color: #3f597d; 
+}
+
+.footer-custom {
+    background-color: #3f597d; 
+    color: #F7F5F0; 
+}
+
+.footer-logo {
+    height: 75px;
+    width: auto;
+}
+
+.text-muted-custom {
+    color: #CBD5E0; 
+}
+
+.footer-custom h5 {
+    color: #E25822; 
+}
+
+.footer-divider {
+    border-color: #4A5568;
+}
+
+.btn-header{
+    color:white;
+    text-decoration: none;
+}
+
+.btn-header:hover{
+    color:#E25822;
+    opacity:1;
+}
+
+.btn-interactive{
+    background-color: #D4AF37;
+    color:white;
+}
+
+.btn-interactive:hover{
+    background-color: #b3932b;
+    color:white;
+    opacity:1;
+}
+
+.hero-card {
+    background: #1e1639;
+}
+
+/* Botón cálido que resalta sobre la noche estrellada */
+.btn-gold {
+    background-color: #d4a373;
+    color: #1a1a1a;
+}
+
+.btn-gold:hover {
+    background-color: #997b2f;
+    color: #000;
+}

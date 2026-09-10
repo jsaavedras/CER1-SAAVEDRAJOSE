@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 50" width="220" height="40">
+  <!-- Símbolo -->
+  <g transform="translate(5, 5)">
+    <!-- Olas -->
+    <path d="M6 32 C 11 29, 14 35, 20 32 C 26 29, 29 35, 34 32" fill="none" stroke="#88A0A8" stroke-width="2" stroke-linecap="round" />
+    <!-- Puerta / Arco marítimo -->
+    <path d="M10 28 V 18 C 10 11, 30 11, 30 18 V 28" fill="none" stroke="#1A365D" stroke-width="2.5" stroke-linecap="round" />
+    <!-- Acento Terracota -->
+    <path d="M20 9 L21 13 L25 14 L21 15 L20 19 L19 15 L15 14 L19 13 Z" fill="#E25822" />
+  </g>
+
+  <!-- Texto del Nombre -->
+  <text x="50" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="16" fill="#1A365D">PUERTO ABIERTO</text>
+  <text x="50" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#E25822" letter-spacing="1.5">CENTRO CULTURAL</text>
+</svg>
